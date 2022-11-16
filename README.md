@@ -1,2 +1,2 @@
 # script-bucin-html
-my suprise project static web for deploy on App Engine
+my surprise project static web for deploy on App Engine
